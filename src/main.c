@@ -4,7 +4,7 @@
 #include "functions.h"
 
 static double LEARNING_RATE = 0.05;
-static int MINIMUM_CORRECT_GUESSES = 1000;
+static int MINIMUM_CORRECT_GUESSES = 50;
 static int NODE_0 = -1;
 
 int main() {
